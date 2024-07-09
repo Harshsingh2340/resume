@@ -1,3 +1,5 @@
+![image](https://github.com/Harshsingh2340/resume/assets/101996864/b2b86673-302f-4a53-8a23-4d8e7430b515)
+
 📄 **Interactive Resume - HTML, CSS, JavaScript**
 
 Unlock a modern and interactive representation of my professional journey with this Interactive Resume crafted using HTML, CSS, and JavaScript. Dive into a visually appealing and dynamic showcase of my skills, experience, and projects.
